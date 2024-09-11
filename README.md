@@ -40,4 +40,5 @@ For the AI-based approach, we used the **CelebA dataset** with over **200,000 fa
 
 Here is a sample of the ASCII art output from the regular mode:
 
-[Sample Output]![Screenshot (8)](https://github.com/user-attachments/assets/139f7d4d-573f-4f40-b895-b737b03c8588)
+[Sample Output]![Screenshot (8)](https://github.com/user-attachments/assets/6dad8075-ad2b-4aaa-b763-978d5f43fc09)
+
