@@ -1,0 +1,9 @@
+ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", "."]
+font_path = 'C:\Windows\Fonts\cour.ttf'
+celeba_ds_path = r'D:\Personal Projects\Live_Ascii_Art\data\celeba_dataset\img_align_celeba'
+ascii_art_ds_path = r'D:\Personal Projects\Live_Ascii_Art\data\celeba_dataset\ascii_celeba'
+saved_model_path = r'D:\Personal Projects\Live_Ascii_Art\AI_based_model\saved_models'
+saved_hdf5_full_path = r'D:\Personal Projects\Live_Ascii_Art\data\celeba_dataset\saved_hdf5\celeba_ascii.hdf5'
+target_dataset_input_size = (128, 128)
+EPOCHS = 5
+BATCH_SIZE = 512

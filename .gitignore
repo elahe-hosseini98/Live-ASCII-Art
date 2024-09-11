@@ -1,0 +1,5 @@
+__pycache__/
+/data/celeba_dataset/ascii_celeba/
+/data/celeba_dataset/img_align_celeba/
+/data/celeba_dataset/saved_hdf5/
+/AI_based_model/saved_models/
